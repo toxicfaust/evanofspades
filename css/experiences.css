@@ -1,0 +1,27 @@
+.experiences{
+    width: 100%;
+
+}
+
+.experiences ul{
+    float: left;
+    text-align: center;
+
+
+}
+.experiences li{
+    display: inline;
+}
+.experiences img{
+    width: 33%;
+    margin: 2% 0;
+    transition: all 1s ease;
+    transform: skew(15deg);
+    opacity: 0.8;
+
+}
+
+.experiences img:hover {
+    transform:scale(1.1) skew(12deg) translate(0px, 10px);
+    opacity: 1;
+}
