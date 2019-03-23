@@ -45,7 +45,7 @@
     transition: transform 0.1s linear;
 }
 #nav li {
-    background: url('menu_line.png') no-repeat scroll right 5px transparent;
+    background: url('img/menu_line.png') no-repeat scroll right 5px transparent;
     float: left;
     position: relative;
     font: bold 16px sans-serif;
@@ -91,7 +91,7 @@
     color: #00B4FF;
 }
 #lavalamp {
-    background: url('lavalamp.png') no-repeat scroll 0 0 transparent;
+    background: url('img/lavalamp.png') no-repeat scroll 0 0 transparent;
     height: 16px;
     left: 13px;
     position: absolute;
